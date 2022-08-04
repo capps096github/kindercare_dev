@@ -63,15 +63,15 @@ This contains the Web Interface of the Kindercare Learning Platform (KLP) with c
 
 | Screen                | Image                                                        |
 | :-------------------- | :----------------------------------------------------------- |
-| Splash Screen         | ![Splash Screen](web/screenshots/splash.png)                 |
-| Create Account Screen | ![Create Account Screen](web/screenshots/signup.png)         |
-| Login Screen          | ![Login Screen](web/screenshots/login.png)                   |
-| Home Screen           | ![Home Screen](web/screenshots/home.png)                     |
-| Settings Screen       | ![Settings Screen](web/screenshots/settings.png)             |
-| Pupils Screen         | ![Pupils Screen](web/screenshots/pupils.png)                 |
-| Register Pupil Screen | ![Register Pupil Screen](web/screenshots/register_pupil.png) |
-| Assignment Screen     | ![Assignment Screen](web/screenshots/assignments.png)        |
-| Add Assignment Screen | ![Add Assignment Screen](web/screenshots/add_assignment.png) |
+| Splash Screen         | ![Splash Screen](images/splash.png)                 |
+| Create Account Screen | ![Create Account Screen](images/signup.png)         |
+| Login Screen          | ![Login Screen](images/login.png)                   |
+| Home Screen           | ![Home Screen](images/home.png)                     |
+| Settings Screen       | ![Settings Screen](images/settings.png)             |
+| Pupils Screen         | ![Pupils Screen](images/pupils.png)                 |
+| Register Pupil Screen | ![Register Pupil Screen](images/register_pupil.png) |
+| Assignment Screen     | ![Assignment Screen](images/assignments.png)        |
+| Add Assignment Screen | ![Add Assignment Screen](images/add_assignment.png) |
 
 - ### **/cmd**
 
@@ -79,7 +79,7 @@ This contains the Web Interface of the Kindercare Learning Platform (KLP) with c
 
 ##### <u>CMD Command Help</u>
 
-![CMD Command Help](cmd/screenshots/cmd.png)
+![CMD Command Help](images/cmd.png)
 
 - ### **/db**
 
